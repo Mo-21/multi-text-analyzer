@@ -1,3 +1,3 @@
 import { TextStats } from "./TextStats";
 
-export const calc = new TextStats();
+export const calculate = new TextStats();
