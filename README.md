@@ -1,6 +1,6 @@
 # Text Analyzer
 
-A lightweight npm package for analyzing text statistics.
+A lightweight npm package for analyzing text.
 
 The package finds the following stats:
 
