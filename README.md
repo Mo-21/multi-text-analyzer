@@ -18,7 +18,7 @@ The package finds the following stats:
 ## Installation
 
 ```bash
-npm install text-analyzer
+npm install multi-text-analyzer
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ npm install text-analyzer
 Import calculate instance:
 
 ```typescript
-import { calculate } from "text-analyzer";
+import { calculate } from "multi-text-analyzer";
 
 const text = "This is a great package!";
 

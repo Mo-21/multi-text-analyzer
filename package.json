@@ -1,5 +1,5 @@
 {
-  "name": "text-analyzer",
+  "name": "multi-text-analyzer",
   "version": "1.0.0",
   "type": "module",
   "description": "",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mo-21/text-analyzer.git"
+    "url": "https://github.com/Mo-21/multi-text-analyzer.git"
   },
   "keywords": [],
   "author": "Mo-21",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mo-21/text-analyzer/issues"
+    "url": "https://github.com/Mo-21/multi-text-analyzer/issues"
   },
-  "homepage": "https://github.com/Mo-21/text-analyzer",
+  "homepage": "https://github.com/Mo-21/multi-text-analyzer",
   "devDependencies": {
     "@rollup/plugin-typescript": "^11.1.6",
     "@types/lodash.countby": "^4.6.9",
