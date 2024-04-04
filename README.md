@@ -1,4 +1,4 @@
-# Text Analyzer
+# Multi Text Analyzer
 
 A lightweight npm package for analyzing text.
 
